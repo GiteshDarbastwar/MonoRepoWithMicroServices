@@ -20,5 +20,4 @@ public class Product {
 
     private double price;
 
-    // Getters and Setters
 }
